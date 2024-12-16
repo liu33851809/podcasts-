@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="要闻解说" xmlUrl="https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/podcast" />
+      <outline type="rss" text="东谈西论" xmlUrl="https://omny.fm/shows/global-heartbeat/playlists/global-heartbeat.rss" />
+      <outline type="rss" text="百靈果 News" xmlUrl="https://feeds.buzzsprout.com/1974862.rss" />
+      <outline type="rss" text="The Beijing Hour" xmlUrl="https://aezfm.meldingcloud.com/rss/program/5" />
+      <outline type="rss" text="联合国新闻 - 全球视野, 常人故事" xmlUrl="https://news.un.org/feed/subscribe/zh/audio-product/all/audio-rss.xml" />
+      <outline type="rss" text="Modern Love" xmlUrl="https://feeds.simplecast.com/eHEJ08b1" />
+      <outline type="rss" text="随机波动StochasticVolatility" xmlUrl="https://feeds.fireside.fm/stovol/rss" />
+      <outline type="rss" text="世界苦茶直播" xmlUrl="https://anchor.fm/s/fdfd8f24/podcast/rss" />
+      <outline type="rss" text="东腔西调" xmlUrl="http://www.ximalaya.com/album/41153937.xml" />
+      <outline type="rss" text="内核恐慌" xmlUrl="https://pan.icu/feed" />
+      <outline type="rss" text="Global News Podcast" xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0gn.rss" />
+      <outline type="rss" text="聽天下：天下雜誌Podcast" xmlUrl="https://feeds.soundon.fm/podcasts/e0baca98-490d-4f44-83c9-32f8ec8eec45.xml" />
+      <outline type="rss" text="不合时宜" xmlUrl="https://feed.xyzfm.space/ww7cqnybekty" />
+      <outline type="rss" text="每个月总有那么几天" xmlUrl="https://justpodmedia.com/rss/gossip-ladies.xml" />
+      <outline type="rss" text="端聞 | 端傳媒新聞播客" xmlUrl="https://feeds.acast.com/public/shows/66b07190af99592b5329f43a" />
+      <outline type="rss" text="东亚观察局" xmlUrl="https://feed.xyzfm.space/eye-on-east-asia" />
+      <outline type="rss" text="美轮美换 The American Roulette" xmlUrl="https://americanroulette.typlog.io/feed/audio.xml" />
+      <outline type="rss" text="Learning English for China" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9st.rss" />
+      <outline type="rss" text="不好意思請問一下 by致昕" xmlUrl="https://feeds.soundon.fm/podcasts/816df744-699d-4472-bc6c-450bfd1fd299.xml" />
+      <outline type="rss" text="South China Morning Post" xmlUrl="https://cms.scmp.com/rss/podcast/325477/media_rss.xml" />
+      <outline type="rss" text="36氪·8点1氪" xmlUrl="http://www.ximalaya.com/album/8125936.xml" />
+      <outline type="rss" text="文化土豆 Culture Potato" xmlUrl="https://feeds.acast.com/public/shows/5e0b6ece81be870a61107c66" />
+      <outline type="rss" text="Inside China" xmlUrl="https://cms.scmp.com/rss/google_assistant/325477/media_rss.xml?article-type=329431" />
+      <outline type="rss" text="无聊斋" xmlUrl="https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml" />
+      <outline type="rss" text="The Vergecast" xmlUrl="https://feeds.megaphone.fm/vergecast" />
+      <outline type="rss" text="理性批判" xmlUrl="https://feed.xyzfm.space/vqpjjxnrtbdr" />
+      <outline type="rss" text="Reuters World News" xmlUrl="https://feeds.megaphone.fm/reutersworldnews" />
+      <outline type="rss" text="Rolling Stone's 500 Greatest Songs" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3c989afe-e48b-4e96-b798-b11c013b61bf/0f73dd63-f7a1-4bba-b81a-b11c013c8f64/podcast.rss" />
+      <outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" />
+      <outline type="rss" text="一席" xmlUrl="https://feed.xyzfm.space/jq7xytwpykrg" />
+      <outline type="rss" text="不明白播客" xmlUrl="https://feeds.buzzsprout.com/1982525.rss" />
+      <outline type="rss" text="翻转电台FlipRadio" xmlUrl="https://anchor.fm/s/141e652c/podcast/rss" />
+      <outline type="rss" text="大内密谈" xmlUrl="http://rss.lizhi.fm/rss/14275.xml" />
+      <outline type="rss" text="Peking Hotel with Liu He" xmlUrl="https://api.substack.com/feed/podcast/2590773.rss" />
+      <outline type="rss" text="忽左忽右" xmlUrl="https://justpodmedia.com/rss/left-right.xml" />
+      <outline type="rss" text="声东击西" xmlUrl="https://feeds.fireside.fm/shengdongjixi/rss" />
+      <outline type="rss" text="世界苦茶World Bitter Tea" xmlUrl="https://feeds.buzzsprout.com/2189845.rss" />
+    </outline>
+  </body>
+</opml>
